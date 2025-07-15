@@ -1,5 +1,6 @@
-
+<p align="center">
 <img width="700" height="500" alt="ChatGPT Image Jul 15, 2025, 01_44_02 AM" src="https://github.com/user-attachments/assets/78dd621d-e424-43c9-a61c-0a02bba8bc39" />
+</p>
 
 # ☀️ Sunest – Armazenamento Descentralizado com Energia Solar sob Demanda
 
