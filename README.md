@@ -140,15 +140,15 @@ node sensor-simulator.js
 ```
 
 💰 Modelo Financeiro
-	- O microgrid recebe pelo fornecimento de energia + taxa de gestão.
+- O microgrid recebe pelo fornecimento de energia + taxa de gestão.
 
-	- O operador do nó verde recebe o valor da operação menos os custos energéticos.
+- O operador do nó verde recebe o valor da operação menos os custos energéticos.
 
-	- A plataforma Sunest mantém uma taxa sobre cada operação bem-sucedida.
+- A plataforma Sunest mantém uma taxa sobre cada operação bem-sucedida.
 
 🌞 Casos de Uso
 Armazenamento seguro de dados em horários de pico solar.
 
-	- Distribuição automatizada de dados sensíveis em regiões sustentáveis.
+- Distribuição automatizada de dados sensíveis em regiões sustentáveis.
 
-	- Incentivo à adesão de operadores domésticos e microprodutores solares.
+- Incentivo à adesão de operadores domésticos e microprodutores solares.
